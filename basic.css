@@ -30,7 +30,7 @@ img {
 .top, .bottom{
 	z-index: 1;
 	position: fixed;
-	width: 100%;
+	width: 97%;
 }
 .container:after, .container:before, .panel:after, .panel:before, .row:after, .row:before, .row-padding:after, .row-padding:before, .cell-row:before, .cell-row:after, .clear:after, .clear:before, .bar:before, .bar:after {
     content: "";
