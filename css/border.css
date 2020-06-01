@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+/*p{
+	border-style: dotted solid dashed ridge;
+	border-width: thick;
+	margin: 20px;
+	border-color: red blue green brown;  
+}
+*/
+p.dotted{
+	border-style: dotted;
+	border-color: aqua;
+	margin: 20px;
+	border-width: 5px;
+}
+p.dashed{
+	border-style: dashed;
+	border-color:black;
+	padding: 50px;
+	margin: 20px;
+	border-width: thick;
+}
+p.solid{
+	border-style: solid;
+    margin: 20px;
+	border-color: green;
+}
+p.ridge{
+	border-style: ridge;
+	border-color: red;
+	margin: 20px;
+	padding: 50px;
+	border-width: 5px;
+}
+p.double{
+	border-style: groove;
+	border-color: brown;
+	border-width: medium;
+	padding: 50px;
+	margin: 20px;
+}
