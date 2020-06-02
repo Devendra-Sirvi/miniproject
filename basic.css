@@ -42,8 +42,8 @@ img {
     box-sizing: inherit;
 }
 .col.l3 {
-    width: 24.99999%;
 	min-width: 300px;
+	width: 24.99999%;
 }
 .col.m6, .half {
 
